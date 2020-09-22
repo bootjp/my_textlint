@@ -1,6 +1,9 @@
 {
     "rules": {
         "preset-jtf-style": true,
-        "preset-ja-technical-writing": true
+        "preset-ja-technical-writing": true,
+        "textlint-rule-no-double-negative-ja": true,
+        "textlint-rule-ja-no-weak-phrase": true,
+        "textlint-rule-ja-no-redundant-expression": true
     }
 }
